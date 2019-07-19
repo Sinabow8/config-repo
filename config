@@ -3,7 +3,7 @@
 # Executors will use this to discover the change of an Orchestrator destination.
 # Note the Orchestrator needs this to match its URL, otherwise it will be inactive.
 # The trailing / on the url is required.
-orchestrator.url=https://10.75.11.86:7070
+orchestrator.url=https://10.75.11.67:7070
 # Optional: Permit http to be used in url field (Default: false)
 #
 # Node sharing is using Basic HTTP authentication scheme so use of http effectively
